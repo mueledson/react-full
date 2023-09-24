@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nintendo Switch",
+      "description": "Console da Nintendo 2017",
+      "price": "1800,00"
+    },
+    {
+      "id": 2,
+      "name": "PS4",
+      "description": "Console da Sony",
+      "price": "15000"
+    },
+    {
+      "id": 3,
+      "name": "Nintendo Wii u",
+      "description": "Console da Nintendo",
+      "price": "500"
+    },
+    {
+      "id": 4,
+      "name": "Mouse Gamer",
+      "description": "Mouse Gamer Redragon",
+      "price": "500"
+    },
+    {
+      "id": 5,
+      "name": "Fone Gamer",
+      "description": "Fone Gamer Redragon",
+      "price": "100"
+    },
+    {
+      "id": 6,
+      "name": "PC gamer",
+      "description": "PC Gamer Redragon",
+      "price": "1000"
+    },
+    {
+      "id": 7,
+      "name": "teste",
+      "description": "tesatea asdete",
+      "price": "100"
+    }
+  ]
+}
